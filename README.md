@@ -16,7 +16,7 @@
 [![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
 [![Asian Development Bank](https://img.shields.io/badge/Asian%20Development%20Bank-ADB-blue.svg)](https://www.adb.org/)
 [![African Development Bank](https://img.shields.io/badge/African%20Development%20Bank-AfDB-blue.svg)](https://www.afdb.org/)
-[![World Trade Organization](https://img.shields.io/badge/World%20Trade%20Organization-WTO -blue.svg)](https://www.wto.org/)
+[![World Trade Organization](https://img.shields.io/badge/World%20Trade%20Organization-WTO-blue.svg)](https://www.wto.org/)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-4.0-blue.svg)](https://www.r-project.org/)
