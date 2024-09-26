@@ -5,12 +5,17 @@
 [![University of Texas at Austin](https://img.shields.io/badge/University%20of%20Texas%20at%20Austin-Texas-blue.svg)](https://www.utexas.edu/)
 [![University of California, Berkeley](https://img.shields.io/badge/University%20of%20California%2C%20Berkeley-Cal-blue.svg)](https://www.berkeley.edu/)
 [![University of Oxford](https://img.shields.io/badge/University%20of%20Oxford-Oxford-blue.svg)](https://www.ox.ac.uk/)
+[![University of California, Berkeley](https://img.shields.io/badge/University%20of%20California%2C%20Berkeley-Cal-blue.svg)](https://www.berkeley.edu/)
+[![California Institute of Technology](https://img.shields.io/badge/California%20Institute%20of%20Technology-Caltech-blue.svg)](https://www.caltech.edu/)
+[![Princeton University](https://img.shields.io/badge/Princeton%20University-Princeton-blue.svg)](https://www.princeton.edu/)
 
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
 [![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
 [![European Union](https://img.shields.io/badge/European%20Union-EU-blue.svg)](https://europa.eu/)
 [![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
+[![Asian Development Bank](https://img.shields.io/badge/Asian%20Development%20Bank-ADB-blue.svg)](https://www.adb.org/)
+[![African Development Bank](https://img.shields.io/badge/African%20Development%20Bank-AfDB-blue.svg)](https://www.afdb.org/)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-4.0-blue.svg)](https://www.r-project.org/)
