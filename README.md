@@ -1,5 +1,6 @@
-[![University of Cambridge](https://img.shields.io/badge/University%20of%20Cambridge-Cambridge-blue.svg)](https://www.cam.ac.uk/)
-[![Harvard University](https://img.shields.io/badge/Harvard%20University-Harvard-crimson.svg)](https://www.harvard.edu/)
+[![Harvard University](https://img.shields.io/badge/Harvard%20University-Harvard-blue.svg)](https://www.harvard.edu/)
+[![Stanford University](https://img.shields.io/badge/Stanford%20University-Stanford-blue.svg)](https://www.stanford.edu/)
+[![Massachusetts Institute of Technology](https://img.shields.io/badge/MIT-Massachusetts%20Institute%20of%20Technology-blue.svg)](https://www.mit.edu/)
 
 [![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
 [![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
