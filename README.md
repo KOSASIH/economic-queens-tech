@@ -9,6 +9,9 @@
 [![California Institute of Technology](https://img.shields.io/badge/California%20Institute%20of%20Technology-Caltech-blue.svg)](https://www.caltech.edu/)
 [![Princeton University](https://img.shields.io/badge/Princeton%20University-Princeton-blue.svg)](https://www.princeton.edu/)
 
+[![National Institutes of Health](https://img.shields.io/badge/National%20Institutes%20of%20Health-NIH-green.svg)](https://www.nih.gov/)
+[![National Science Foundation](https://img.shields.io/badge/National%20Science%20Foundation-NSF-yellow.svg)](https://www.nsf.gov/)
+
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
 [![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
