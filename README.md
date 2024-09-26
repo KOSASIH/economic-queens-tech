@@ -1,9 +1,24 @@
 [![Harvard University](https://img.shields.io/badge/Harvard%20University-Harvard-blue.svg)](https://www.harvard.edu/)
 [![Stanford University](https://img.shields.io/badge/Stanford%20University-Stanford-blue.svg)](https://www.stanford.edu/)
 [![Massachusetts Institute of Technology](https://img.shields.io/badge/MIT-Massachusetts%20Institute%20of%20Technology-blue.svg)](https://www.mit.edu/)
+[![University of California, Berkeley](https://img.shields.io/badge/University%20of%20California%2C%20Berkeley-Cal-blue.svg)](https://www.berkeley.edu/)
+[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-Michigan-blue.svg)](https://www.umich.edu/)
+[![University of Texas at Austin](https://img.shields.io/badge/University%20of%20Texas%20at%20Austin-Texas-blue.svg)](https://www.utexas.edu/)
+
+[![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
+[![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
+[![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
 
 [![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
 [![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-4.0-blue.svg)](https://www.r-project.org/)
+[![Java](https://img.shields.io/badge/Java-1.8-blue.svg)](https://www.oracle.com/java/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub-blue.svg)](https://github.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Open%20Source-blue.svg)](https://opensource.org/)
+[![MIT License](https://img.shields.io/badge/MIT%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # economic-queens-tech
 A New Era of Women's Economic Empowerment. 
