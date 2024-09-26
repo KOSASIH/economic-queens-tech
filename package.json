@@ -1,0 +1,19 @@
+{
+  "name": "economic-queens-tech",
+  "version": "1.0.0",
+  "description": "EmpowHerNet's Dawn - A New Era of Women's Economic Empowerment",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "KOSASIH",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.8.3"
+  }
+}
