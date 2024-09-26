@@ -1,3 +1,9 @@
+[![University of Cambridge](https://img.shields.io/badge/University%20of%20Cambridge-Cambridge-blue.svg)](https://www.cam.ac.uk/)
+[![Harvard University](https://img.shields.io/badge/Harvard%20University-Harvard-crimson.svg)](https://www.harvard.edu/)
+
+[![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
+[![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
+
 # economic-queens-tech
 A New Era of Women's Economic Empowerment. 
 
@@ -52,4 +58,5 @@ To get started with the project, follow these steps:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/badge/Contributors-1-orange.svg)](https://github.com/KOSASIH/economic-queens-tech/graphs/contributors)
-
+[![Code Quality: Python](https://img.shields.io/badge/code%20quality-python-blue.svg)](https://www.python.org/)
+[![Code Quality: Java](https://img.shields.io/badge/code%20quality-java-orange.svg)](https://www.java.com/)
