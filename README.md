@@ -8,8 +8,7 @@
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
 [![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
-
-[![United Nations](https://img.shields.io/badge/United%20Nations-UN-blue.svg)](https://www.un.org/)
+[![European Union](https://img.shields.io/badge/European%20Union-EU-blue.svg)](https://europa.eu/)
 [![World Health Organization](https://img.shields.io/badge/World%20Health%20Organization-WHO-lightblue.svg)](https://www.who.int/)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
