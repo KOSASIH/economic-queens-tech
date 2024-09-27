@@ -13,6 +13,10 @@
 [![National Science Foundation](https://img.shields.io/badge/National%20Science%20Foundation-NSF-yellow.svg)](https://www.nsf.gov/)
 [![National Aeronautics and Space Administration](https://img.shields.io/badge/National%20Aeronautics%20and%20Space%20Administration-NASA-blue.svg)](https://www.nasa.gov/)
 [![European Space Agency](https://img.shields.io/badge/European%20Space%20Agency-ESA-blue.svg)](https://www.esa.int/)
+[![Allen Institute](https://img.shields.io/badge/Allen%20Institute-AI-green.svg)](https://www.alleninstitute.org/)
+[![Howard Hughes Medical Institute](https://img.shields.io/badge/Howard%20Hughes%20Medical%20Institute-HHMI-blue.svg)](https://www.hhmi.org/)
+[![Gordon and Betty Moore Foundation](https://img.shields.io/badge/Gordon%20and%20Betty%20Moore%20Foundation-GBMF-green.svg)](https://www.moore.org/)
+[![Bill and Melinda Gates Foundation](https://img.shields.io/badge/Bill%20and%20Melinda%20Gates%20Foundation-BMGF-blue.svg)](https://www.gatesfoundation.org/)
 
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
