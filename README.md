@@ -11,6 +11,8 @@
 
 [![National Institutes of Health](https://img.shields.io/badge/National%20Institutes%20of%20Health-NIH-green.svg)](https://www.nih.gov/)
 [![National Science Foundation](https://img.shields.io/badge/National%20Science%20Foundation-NSF-yellow.svg)](https://www.nsf.gov/)
+[![National Aeronautics and Space Administration](https://img.shields.io/badge/National%20Aeronautics%20and%20Space%20Administration-NASA-blue.svg)](https://www.nasa.gov/)
+[![European Space Agency](https://img.shields.io/badge/European%20Space%20Agency-ESA-blue.svg)](https://www.esa.int/)
 
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
