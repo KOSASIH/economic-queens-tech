@@ -21,6 +21,12 @@
 [![EmpowHerNet](https://img.shields.io/badge/EmpowHerNet-EHN-orange.svg)](https://www.empowhernet.org/)
 [![Global Alliance for Clean Cookstoves](https://img.shields.io/badge/Global%20Alliance%20for%20Clean%20Cookstoves-GACC-green.svg)](https://www.cleancookstoves.org/)
 [![Women, Business and the Law](https://img.shields.io/badge/Women%2C%20Business%20and%20the%20Law-WBL-blue.svg)](https://wbl.worldbank.org/en/wbl)
+[![Women's Economic Empowerment](https://img.shields.io/badge/Women's%20Economic%20Empowerment-WEE-blue.svg)](https://www.care.org/our-work/womens-economic-justice/)
+[![Office of Minority and Women's Business Enterprises](https://img.shields.io/badge/Office%20of%20Minority%20and%20Women's%20Business%20Enterprises-OMWBE-orange.svg)](https://omwbe.wa.gov/)
+[![Bill and Melinda Gates Foundation](https://img.shields.io/badge/Bill%20and%20Melinda%20Gates%20Foundation-BMGF-blue.svg)](https://www.gatesfoundation.org/our-work/programs/gender-equality/womens-economic-power)
+[![United Nations Office on Drugs and Crime](https://img.shields.io/badge/United%20Nations%20Office%20on%20Drugs%20and%20Crime-UNODC-blue.svg)](https://www.unodc.org/unodc/en/gender/news/empowering-every-badge---gender-and-law-enforcement-in-eastern-africa.html)
+[![Code with Her](https://img.shields.io/badge/Code%20with%20Her-CWH-orange.svg)](https://codewithher.org/programs)
+[![Girl Scouts of the USA](https://img.shields.io/badge/Girl%20Scouts%20of%20the%20USA-GSUSA-blue.svg)](https://www.girlscouts.org/en/members/for-girl-scouts/badges-journeys-awards/new-programs.html)
 
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
