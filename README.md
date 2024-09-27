@@ -17,6 +17,10 @@
 [![Howard Hughes Medical Institute](https://img.shields.io/badge/Howard%20Hughes%20Medical%20Institute-HHMI-blue.svg)](https://www.hhmi.org/)
 [![Gordon and Betty Moore Foundation](https://img.shields.io/badge/Gordon%20and%20Betty%20Moore%20Foundation-GBMF-green.svg)](https://www.moore.org/)
 [![Bill and Melinda Gates Foundation](https://img.shields.io/badge/Bill%20and%20Melinda%20Gates%20Foundation-BMGF-blue.svg)](https://www.gatesfoundation.org/)
+[![Women's Economic Empowerment](https://img.shields.io/badge/Women's%20Economic%20Empowerment-WEE-blue.svg)](https://www.womenindisplacement.org/sites/g/files/tmzbdl1471/files/2020-10/Womens%20Economic%20Empowerment%20and%20Inclusive%20Growth.pdf)
+[![EmpowHerNet](https://img.shields.io/badge/EmpowHerNet-EHN-orange.svg)](https://www.empowhernet.org/)
+[![Global Alliance for Clean Cookstoves](https://img.shields.io/badge/Global%20Alliance%20for%20Clean%20Cookstoves-GACC-green.svg)](https://www.cleancookstoves.org/)
+[![Women, Business and the Law](https://img.shields.io/badge/Women%2C%20Business%20and%20the%20Law-WBL-blue.svg)](https://wbl.worldbank.org/en/wbl)
 
 [![World Bank](https://img.shields.io/badge/World%20Bank-World%20Bank-blue.svg)](https://www.worldbank.org/)
 [![International Monetary Fund](https://img.shields.io/badge/International%20Monetary%20Fund-IMF-blue.svg)](https://www.imf.org/)
