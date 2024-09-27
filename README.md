@@ -9,6 +9,8 @@
 [![California Institute of Technology](https://img.shields.io/badge/California%20Institute%20of%20Technology-Caltech-blue.svg)](https://www.caltech.edu/)
 [![Princeton University](https://img.shields.io/badge/Princeton%20University-Princeton-blue.svg)](https://www.princeton.edu/)
 
+[![Pi Network](https://img.shields.io/badge/Pi%20Network-Pi%20Network-blue.svg)](https://minepi.com/)
+
 [![National Institutes of Health](https://img.shields.io/badge/National%20Institutes%20of%20Health-NIH-green.svg)](https://www.nih.gov/)
 [![National Science Foundation](https://img.shields.io/badge/National%20Science%20Foundation-NSF-yellow.svg)](https://www.nsf.gov/)
 [![National Aeronautics and Space Administration](https://img.shields.io/badge/National%20Aeronautics%20and%20Space%20Administration-NASA-blue.svg)](https://www.nasa.gov/)
