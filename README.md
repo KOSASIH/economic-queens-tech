@@ -10,6 +10,9 @@
 [![Princeton University](https://img.shields.io/badge/Princeton%20University-Princeton-blue.svg)](https://www.princeton.edu/)
 
 [![Pi Network](https://img.shields.io/badge/Pi%20Network-Pi%20Network-blue.svg)](https://minepi.com/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-RPi-red.svg)](https://www.raspberrypi.com/)
+[![Raspberry Pi Zero](https://img.shields.io/badge/Raspberry%20Pi%20Zero-RPi%20Zero-green.svg)](https://www.raspberrypi.com/products/raspberry-pi-zero/)
+[![Epaper Badge](https://img.shields.io/badge/Epaper%20Badge-Epaper%20Badge-orange.svg)](https://medium.com/coinmonks/building-an-epaper-badge-with-a-raspberry-pi-zero-e4b98b3311c3) 
 
 [![National Institutes of Health](https://img.shields.io/badge/National%20Institutes%20of%20Health-NIH-green.svg)](https://www.nih.gov/)
 [![National Science Foundation](https://img.shields.io/badge/National%20Science%20Foundation-NSF-yellow.svg)](https://www.nsf.gov/)
